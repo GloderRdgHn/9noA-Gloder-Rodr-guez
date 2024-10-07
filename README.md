@@ -2,6 +2,7 @@
 Algoritmos Trimestre 1 y Trimestre 2
 
 En este repositrorio encontraras los siguientes códigos
+
 Juego 1: El usuario tiene que adivinar un número aleatorio del 1 al 100 con unas pistas de "el número ingresado es menor" o el número ingresado es mayor".
 
 Juego 2: El programa se encarga de crear el clásico juego de tres en raya el juego se debe jugar con dos jugadores, el jugador 1 va ser "X", mientras que el jugador 2 va a ser "O", esto con la misión que en un tablero haga una línea del mismo símbolo dando así al ganador, si no pasa esto será un empate.
