@@ -1,5 +1,6 @@
 # 9noA-Gloder-Rodriguez
 Algoritmos Trimestre 1 y Trimestre 2
+
 En este repositrorio encontraras los siguientes códigos
 Juego 1: El usuario tiene que adivinar un número aleatorio del 1 al 100 con unas pistas de "el número ingresado es menor" o el número ingresado es mayor".
 
