@@ -30,3 +30,7 @@ Promedio de 4 números: El programa permite ingresar 4 valores que serian clalif
 Decimal: Tranforma una fraccion en decimal.
 
 Ordena 5 números: Ordena 5 números de menor a mayor.
+
+Valores Abolutos: Convierte los números de un vector a su valor absoluto.
+
+Par o impar: El programa determina si el numero ingresado es par o impar.
