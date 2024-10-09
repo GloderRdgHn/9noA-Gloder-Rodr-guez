@@ -22,3 +22,9 @@ Número del mes: El programa permite ingresar un número del 1 al 12 y dependine
 Ordenar numeros: El programa permite primero ingresar un numero que determina cuanto dato deseo ingrear y de ahí permite ingresar lo numeros y los ordena de menor a mayor.
 
 Suma de tres numeros: El programa permite ingresar 3 numeros que luego seran sumados entre si.
+
+Suma, Resta y multiplicacion: El programa hace Suma, Resta y multiplicacion de tres numeros que el usuario ingresa.
+
+Promedio de 4 números: El programa permite ingresar 4 valores que serian clalificaciones y saca el promedio de estas, luego determina si el promedio alcanza para un supletorio o aprobado, pero si no entonces reprobado.
+
+Decimal: Tranforma una fraccion en decimal.
