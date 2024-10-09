@@ -18,3 +18,7 @@ Juego 6: El programa crea un juego que es una palabra desordenada, la misión es
 Juego 7: El programa crea el juego matemático de vida de Conway, este consiste en un juego de evolución este creas unas células en un tablero que van a evolucionando según las reglas del juego.
 
 Número del mes: El programa permite ingresar un número del 1 al 12 y dependinendo de este lanza el mes que corresponde.
+
+Ordenar numeros: El programa permite primero ingresar un numero que determina cuanto dato deseo ingrear y de ahí permite ingresar lo numeros y los ordena de menor a mayor.
+
+Suma de tres numeros: El programa permite ingresar 3 numeros que luego seran sumados entre si.
