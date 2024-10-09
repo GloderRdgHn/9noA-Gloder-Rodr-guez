@@ -1,11 +1,10 @@
 Proceso par_o_impar
-	//*HECHO POR GEORGE FERNANDO PELAEZ CARRERA
 	Definir N Como Entero;
-	Escribir "Ingrese un número: ";
+	Escribir "Ingrese un nÃºmero: ";
 	Leer N;
 	Si N%2=0 Entonces
-		Escribir "El número", N, "es par.";
+		Escribir "El nÃºmero", N, "es par.";
 	SiNo
-		Escribir "El número ", N, "es impar.";
+		Escribir "El nÃºmero ", N, "es impar.";
 	FinSi
 FinAlgoritmo
