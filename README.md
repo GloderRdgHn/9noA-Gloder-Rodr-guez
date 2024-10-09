@@ -28,3 +28,5 @@ Suma, Resta y multiplicacion: El programa hace Suma, Resta y multiplicacion de t
 Promedio de 4 números: El programa permite ingresar 4 valores que serian clalificaciones y saca el promedio de estas, luego determina si el promedio alcanza para un supletorio o aprobado, pero si no entonces reprobado.
 
 Decimal: Tranforma una fraccion en decimal.
+
+Ordena 5 números: Ordena 5 números de menor a mayor.
